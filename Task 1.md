@@ -2,29 +2,29 @@
 
 Configuring Jenkins Plugin for cloud provider (for auto scalable  loads)
 
-![image.png](Task%201/image.png)
+![image.png](Images/Task%201/image.png)
 
-![image.png](Task%201/image%201.png)
+![image.png](Images/Task%201/image%201.png)
 
-![image.png](Task%201/image%202.png)
+![image.png](Images/Task%201/image%202.png)
 
-![image.png](Task%201/image%203.png)
+![image.png](Images/Task%201/image%203.png)
 
-![image.png](Task%201/image%204.png)
+![image.png](Images/Task%201/image%204.png)
 
-![image.png](Task%201/image%205.png)
+![image.png](Images/Task%201/image%205.png)
 
-![image.png](Task%201/image%206.png)
+![image.png](Images/Task%201/image%206.png)
 
-![image.png](Task%201/image%207.png)
+![image.png](Images/Task%201/image%207.png)
 
-![image.png](Task%201/image%208.png)
+![image.png](Images/Task%201/image%208.png)
 
-![image.png](Task%201/image%209.png)
+![image.png](Images/Task%201/image%209.png)
 
-![image.png](Task%201/image%2010.png)
+![image.png](Images/Task%201/image%2010.png)
 
-![image.png](Task%201/image%2011.png)
+![image.png](Images/Task%201/image%2011.png)
 
 2 plugins used amazon ec2 and ssh agent plugin 
 
